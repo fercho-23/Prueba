@@ -1,0 +1,24 @@
+CONTROL DE VENCIMIENTOS - VERSION COMPLETA
+IMPORTANTE: Esta versión utiliza la base de datos control_vencimientos y la tabla productos que ya creaste.
+
+INSTALACIÓN:
+1. Detén Apache antes de reemplazar archivos, si Windows indica que algún archivo está en uso.
+2. Conserva tu carpeta actual como respaldo.
+3. Copia TODO el contenido de esta carpeta a:
+   C:\xampp\htdocs\control_vencimientos
+4. Si Windows pregunta por reemplazar archivos, acepta.
+5. NO borres ni recrees la base de datos.
+6. Inicia Apache y MySQL.
+7. Abre:
+   http://localhost:8080/control_vencimientos/
+
+FUNCIONES:
+- Registrar productos.
+- Editar productos.
+- Eliminar productos.
+- Cálculo automático de días restantes.
+- Vencidos, vence hoy, 1-7, 8-15 y vigentes.
+- Panel de atención.
+- Buscador.
+- Filtros.
+- Diseño responsive.
